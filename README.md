@@ -1,9 +1,9 @@
 ## Autor
 
-Nombre: Andrea Guadalupe Ruvalcaba Mascorro
+Nombre: Eloy Guadalupe Salas Gonzalez
 Carrera: Ingeniería en Tecnologías de la Información y Comunicación
 Institución: Instituto Tecnológico de Aguascalientes
-Correo: 23150303@aguascalientes.tecnm.mx
+Correo: 22151220@aguascalientes.tecnm.mx
 
 ## Descripción del Proyecto
 
@@ -19,3 +19,5 @@ El sistema permite registrar, visualizar, editar y eliminar estudiantes desde un
 -Practicar la validación de datos y el manejo de formularios.
 -Implementar un layout base para organizar las vistas.
 -Consolidar la comprensión del flujo completo de un sistema web# Tarea_CRUD
+## Link del repositorio:
+https://github.com/Dalup-213/Tarea_CRUD.git
