@@ -18,6 +18,6 @@ El sistema permite registrar, visualizar, editar y eliminar estudiantes desde un
 -Comprender la interacción entre Modelos, Controladores, Vistas y Rutas.
 -Practicar la validación de datos y el manejo de formularios.
 -Implementar un layout base para organizar las vistas.
--Consolidar la comprensión del flujo completo de un sistema web# Tarea_CRUD
+-Consolidar la comprensión del flujo completo de un sistema web
 ## Link del repositorio:
 https://github.com/Dalup-213/Tarea_CRUD.git
